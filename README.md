@@ -13,7 +13,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 
 ------
 
-WAN TO USE BOT HOSTING? DOWNLOAD THIS
+WANT TO USE BOT HOSTING? DOWNLOAD THIS
 
   
 <a href='https://www.mediafire.com/file/tzb429ttp2w28or/PATRON-MD-master+(1).zip/file' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
@@ -57,8 +57,11 @@ WAN TO USE BOT HOSTING? DOWNLOAD THIS
 
 - FORK THE REPOSITORY [Here](https://github.com/Itzpatron/PATRON-MD/fork)
 
-## `Scan QR Code For Session`
+## `Pair number For Session`
 [![PATRON-MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Itzpatron/Patron-Pairing-1)
+
+## `2nd server for session`
+<a href='https://ednut-pair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIR BOT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## ` BUILDPACKS`
 
